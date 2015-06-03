@@ -1,0 +1,48 @@
+/* RASH */
+.sky-form .button-r1 {
+    height: 39px;
+    overflow: hidden;
+    margin: 1px;
+    padding: 0px 15px;    
+    outline: none;
+    border: 0;
+    font: 300 15px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.sky-form .button-r2 {
+    height: 39px;
+    overflow: hidden;
+    margin: 1px;
+    padding: 0px 15px;
+    outline: none;
+    border: 0;
+    font: 300 15px/39px 'Open Sans', Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+.sky-form .button-r1 {
+    background-color: #2da5da;
+    opacity: 0.8;
+    -ms-transition: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    -webkit-transition: opacity 0.2s;
+}
+
+.sky-form .button-r2 {
+    background-color: #C9302C;
+    opacity: 0.8;
+    -ms-transition: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    -webkit-transition: opacity 0.2s;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+/* RASH */
